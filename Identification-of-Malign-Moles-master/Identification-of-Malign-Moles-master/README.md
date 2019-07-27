@@ -1,6 +1,6 @@
 # CNN to identify malign moles on skin
 
-#### *- Personal Project by Chetan Grandhe*  - sg0076@uah.edu
+
 
 ### 1. Project Summary and motivation
 The purpose of this project is to create a tool that considering the image of a
